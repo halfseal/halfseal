@@ -1,5 +1,6 @@
 ### Hi there 👋
 
+    <img src="https://img.shields.io/badge/#00599C?style=flat&logo=cplusplus&logoColor=white"/>
 <!--
 **halfseal/halfseal** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
