@@ -15,7 +15,7 @@
 
 
 [![Solved.ac
-프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=hots2650)](https://solved.ac/hots2650)
+프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=calcite)](https://solved.ac/calcite)
 
 <!--
 **halfseal/halfseal** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
