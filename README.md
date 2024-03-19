@@ -1,9 +1,6 @@
 ### Hi there 👋
 <!-- https://simpleicons.org/ -->
-<a href="https://velog.io/" target="_blank"><img src="https://img.shields.io/badge/BLOG-20C997?style=flat&logo=velog&logoColor=white"/></a>
 <a href="mailto:limestone@g.skku.edu" target="_blank"><img src="https://img.shields.io/badge/limestone@g.skku.edu-EA4335?style=flat&logo=Gmail&logoColor=white"/></a>
-
-### I am familiar with these languages/systems
 <div>
     <img src="https://img.shields.io/badge/C++-00599C?style=flat&logo=cplusplus&logoColor=white"/>
     <img src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white"/>
